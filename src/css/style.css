@@ -866,7 +866,7 @@ a.read_more:hover {
 
     .grid {
         grid-template-columns: 1fr;
-        gap: 2%;
+        gap: 0.5%;
     }
     /* .title-head{
         margin: 10px 169px;
@@ -919,3 +919,8 @@ a.read_more:hover {
 .container h2 {
     color: red;
 } */
+
+
+/* _____________________________BLOG PAGE CSS ___________________________________________________________ */
+
+
