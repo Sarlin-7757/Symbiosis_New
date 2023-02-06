@@ -743,12 +743,12 @@ header ul li a:hover {
 .card_body p {
     font-weight: 400;
     font-size: 18px;
-    line-height: 1.7em; /* (number of lines) * (line height) */
+    line-height: 1.3em; /* (number of lines) * (line height) */
     color: var(--dark);
     text-decoration: none;
     overflow: hidden;
     word-wrap: break-word;
-    max-height: 6.8em;
+    max-height: 3.9em;
 
 }
 
